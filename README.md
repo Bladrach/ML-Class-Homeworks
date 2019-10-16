@@ -1,2 +1,2 @@
 # ML-Class-Homeworks
-Source codes for my machine learning class homeworks in erasmus.
+All of these source codes were written during erasmus (2019 Spring) at AGH University of Science and Technology.
